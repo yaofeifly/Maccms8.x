@@ -7,5 +7,5 @@
 
 ### &emsp;Vulnerability information ###
 
-&emsp;&emsp;[https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=23026](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=23026 "https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=23026")
+&emsp;&emsp;[Maccms8.x 命令执行漏洞分析](http://blog.csdn.net/yaofeino1/article/details/76376770 "http://blog.csdn.net/yaofeino1/article/details/76376770")
 
